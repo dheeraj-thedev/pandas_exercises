@@ -1,6 +1,9 @@
 # Pandas Exercises
 
 
+
+Database Link : https://www.dropbox.com/s/a2wax843eniq12g/flights.db?dl=0
+
 Video Link :- https://drive.google.com/open?id=13CGYg48LD1hYoFP2P8KKTPODmxm23eX6
 
 Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
